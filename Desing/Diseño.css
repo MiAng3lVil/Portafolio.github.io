@@ -23,7 +23,7 @@ nav {
 }
 
 #logo {
-    width: 90px;
+    width: 180px;
     height: 90px;
 }
 
@@ -322,23 +322,23 @@ main section:nth-child(2) p {
 }
 
 .yellow {
-    background-color: #003e85;
+    background-color: #00D9D5;
 }
 
 .purp {
-    background-color: #008512;
+    background-color: #07A687;
 }
 
 .green {
-    background-color: #00857a;
+    background-color: #B3280C;
 }
 
 .green1 {
-    background-color: #db503e;
+    background-color: #003e85;
 }
 
 .green2 {
-    background-color: #585858;
+    background-color: #0E02B5;
 }
 
 main section:nth-child(3){
